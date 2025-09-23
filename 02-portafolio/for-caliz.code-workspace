@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../for-caliz"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02-portafolio"
+	}
+}
